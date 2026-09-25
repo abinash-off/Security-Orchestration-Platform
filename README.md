@@ -1,6 +1,6 @@
 # Security Orchestration Platform
 
-A safe SOAR learning project with simulated defensive playbooks. The current implementation deliberately avoids real endpoint isolation, deletion, credential changes or other destructive actions.
+Safe SOAR learning project with simulated defensive playbooks. It deliberately avoids real endpoint isolation, deletion, credential changes, or destructive actions.
 
 ## Run
 ```bash
